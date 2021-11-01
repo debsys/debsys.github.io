@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "en-US"
 title                    : "Debsys Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Bicara tentang komputer dan jaringan"
 name                     : "Debsys"
 description              : "Bicara tentang komputer dan jaringan"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
