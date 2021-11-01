@@ -1,5 +1,4 @@
 ---
-permalink: /about/
 title: "About"
 layout : defaults
 toc: true
