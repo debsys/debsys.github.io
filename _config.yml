@@ -15,9 +15,9 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "id-ID"
 title                    : "Debsys Blog"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "Bicara tentang komputer dan jaringan"
 name                     : "Debsys"
 description              : "Bicara tentang komputer dan jaringan"
