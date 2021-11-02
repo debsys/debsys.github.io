@@ -1,8 +1,8 @@
 ---
-permalink : /kebijakan-privasi/
+permalink: /kebijakan-privasi/
 title: Kebijakan Privasi
 layout: single
-toc : true
+toc: true
 ---
 **Debsys.web.id Terms of Service and Privacy Policy**
 
