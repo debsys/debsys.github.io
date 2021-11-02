@@ -1,4 +1,5 @@
 ---
+permalink : /kebijakan-privasi/
 title: Kebijakan Privasi
 layout: single
 toc : true
