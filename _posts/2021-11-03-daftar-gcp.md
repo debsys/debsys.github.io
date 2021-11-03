@@ -16,8 +16,8 @@ Dan pilihan pertama jatuh kepada google cloud platform, atau lebih spesifiknya c
 Google cloud platform(GCP) ini masih memberi masa free trial 3 bulan dan kredit di akun kita sebesar $300 untuk keperluan deploy apapun di GCP. Sedikit kecewa, padahal tahun lalu masa free trial masih 12 bulan alias 1 tahun alias 365 hari. Lha sekarang cuma 3 bulan.
 Tapi tidak apa2 kisanak. Untuk keperluan ngoprek, 3 bulan rasanya cukup.
 
-Iyaudah, kalau mau daftar silakan ke :</br>
-Daftar disini <a rel="noreferrer noopener" href="https://cloud.google.com/free" target="_blank">https://cloud.google.com/free</a></br>
+Iyaudah, kalau mau daftar silakan ke :
+Daftar disini <a rel="noreferrer noopener" href="https://cloud.google.com/free" target="_blank">https://cloud.google.com/free</a>
 Isi form yang dibutukan
 
 # Bisa Pakai VCC Jenius
