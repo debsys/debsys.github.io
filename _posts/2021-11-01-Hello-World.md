@@ -5,6 +5,6 @@ title:  "Welcome to Jekyll!"
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, ini adalah post pertama saya menggunakan platform Jekyll.
 
-I hope you like it!
+Sangat minimalis bukan!
