@@ -1,6 +1,5 @@
 ---
 title: 'Daftar Google Cloud Platform Februari 2021'
-author: debsys
 layout: single
 toc: true
 ---
