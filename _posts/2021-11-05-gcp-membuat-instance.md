@@ -1,13 +1,12 @@
 ---
 title: 'GCP Cara Membuat Instance atau Compute Engine'
-author: debsys
 layout: single
 toc: true
 ---
 # Dashboard GCP
-![Dashboard GCP](/images/dashboard-gcp.png)
-
 Ini adalah kelanjutan dari tulisan sebelumnya, masih mengenai GCP. Setelah berhasil daftar maka kita akan diarahkan ke dashbord GCP. Awal buka dashboard rasanya agak sedikit bingung karena saking banyaknya menu yang ada.
+
+![Dashboard GCP](/images/dashboard-gcp.png)
 
 Untuk membuat instance/VPS, pada menu sebelah kiri arahkan pada opsi Compute Engine > VM Instances.
 
