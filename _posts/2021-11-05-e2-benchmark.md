@@ -22,10 +22,10 @@ Hasil benchmark menggunakan nench.sh :
 
 Berikut ini hasil speedtest ke server lokal di Jakarta, kenceng bet ternyata. 😀<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="764" height="353" src="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest.png" alt="" class="wp-image-75" srcset="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest.png 764w, https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest-300x139.png 300w" sizes="(max-width: 764px) 100vw, 764px" /> <figcaption>speedtest ke biznet</figcaption></figure> <figure class="wp-block-image size-large"><img loading="lazy" width="756" height="402" src="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest2.png" alt="" class="wp-image-76" srcset="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest2.png 756w, https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest2-300x160.png 300w" sizes="(max-width: 756px) 100vw, 756px" /><figcaption>speedtest ke cbn</figcaption></figure> 
+<img loading="lazy" width="764" height="353" src="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest.png" alt="" class="wp-image-75" srcset="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest.png 764w, https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest-300x139.png 300w" sizes="(max-width: 764px) 100vw, 764px" />  
+</figure> <figure class="wp-block-image size-large"><img loading="lazy" width="756" height="402" src="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest2.png" alt="" class="wp-image-76" srcset="https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest2.png 756w, https://debsys.web.id/wp-content/uploads/2021/03/gcp-vps-speedtest2-300x160.png 300w" sizes="(max-width: 756px) 100vw, 756px" /></figure> 
 
-Hmmm, . . . .
-
+# Kesimpulan
 Kesimpulannya, secara hardware VPS ini sudah mumpuni untuk load kerja rendah hingga sedang. Untuk jaringan tidak perlu diragukan, apalagi server berlokasi di Jakarta maka sangat cocok untuk target visitor dari Indonesia.
 
 Okedah, cukup sekian. Nanti kalau ada tambahan benchmark akan saya update tulisannya.
