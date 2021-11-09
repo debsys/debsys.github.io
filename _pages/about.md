@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 layout : single
-author: true
+author_profile: true
 ---
 
 # Welcome
