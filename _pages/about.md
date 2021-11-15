@@ -4,20 +4,17 @@ title: "About Me"
 layout : single
 author_profile: true
 ---
+# Welcome Folks
 
-# Welcome
+### Sekilas tentang blog ini.
 
-**Hi**, Selamat datang di debsys.web.id.
+Blog ini berisi catatan seorang <s>fakir cinta</s> tukang komputer, yang sebagian besar tulisannya membahas mengenai jaringan komputer dan administrasi GNU/Linux server. Jadi ya mohon maaf apabila bahasanya kebanyakan bersifat teknis.
 
-Mungkin anda nyasar ke tempat yang tepat.
+Apabila anda memiliki "point of interest" yang sama, mungkin akan sedikit nyambung dengan blog ini.  
+Oh ya, perkenalkan saya mimin. Tuan rumah blog ini. Orang yang sedang belajar konsisten untuk nulis.
 
-Blog ini berisi catatan seorang <s> fakir cinta</s> tukang komputer, yang sebagian besar tulisan di blog ini akan membahas mengenai jaringan komputer dan administrasi GNU/Linux server. Jadi ya mohon maaf apabila bahasanya kebanyakan bersifat teknis. Maklum, sekalian buat dokumentasi.
+Mungkin ada kritik dan saran?
+Layangkan lewat email atau kontak [telegram](https://t.me/laredusun).
 
-Sebelumnya pernah nulis juga di platform wordpress yang ini <a rel="noreferrer noopener" href="https://debsys.wordpress.com" target="_blank">https://debsys.wordpress.com</a>
-
-Kalau ada yang mau ditanyakan mengenai tulisan di blog ini bisa kontak ke :  
-<a rel="noreferrer noopener" href="mailto:janaka.trisna@gmail.com" target="_blank">janaka.trisna@gmail.com</a> atau  <a rel="noreferrer noopener" href="https://t.me/laredusun" target="_blank">telegram</a>.
-
-Udah ya gitu aja dulu, have a good day!
-
-Salam,
+Terima kasih,  
+Salam.
