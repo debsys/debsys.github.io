@@ -4,28 +4,35 @@ layout: single
 toc: true
 ---
 
-# Latar Belakang
-Setelah sekian purnama akhirnya bisa nulis lagi, bukan karena sibuk tapi karena ada masalah sama tempat hosting yang lama dan database blog saya hilang begitu saja. Huh.
+### Latar Belakang
+Setelah sekian lama akhirnya bisa nulis lagi, bukan karena sibuk tapi karena ada masalah sama tempat hosting yang lama dan database blog saya hilang begitu saja. Inilah akibatnya, padahal sudah disedikan fitur backup tapi tidak dimanfaatkan.
 
-Awal 2021 ini coba pindah ke VPS aja, biar tambah pusing sekalian. hha . . .
+Jadi awal tahun 2021 ini coba pindah ke VPS, sekalian belajar deploy dari mulai ngatur budget, pemilihan spesifikasi, pemilihan OS, setting webserver dll.
 
-# Pindah Ke VPS
-Dan pilihan pertama jatuh kepada google cloud platform, atau lebih spesifiknya compute engine nama servicenya.
+### Pemilihan VPS
+Ada beberapa pilihan VPS yang masuk dalam lists, diantaranya :  
+- Digital Ocean
+- Linode
+- Vultr
+- Upcloud
+- Google Cloud Platform
 
-Google cloud platform(GCP) ini masih memberi masa free trial 3 bulan dan kredit di akun kita sebesar $300 untuk keperluan deploy apapun di GCP. Sedikit kecewa, padahal tahun lalu masa free trial masih 12 bulan alias 1 tahun alias 365 hari. Lha sekarang cuma 3 bulan.
-Tapi tidak apa2 kisanak. Untuk keperluan ngoprek, 3 bulan rasanya cukup.
+Mengingat masih untuk keperluan testing, maka saya pilih Google Cloud Platform.  
+Google cloud platform(GCP) ini masih memberi masa free trial 3 bulan dan kredit di akun kita sebesar $300 untuk keperluan deploy apapun di GCP. Sedikit kecewa, padahal tahun lalu untuk masa free trial selama 12 bulan alias 1 tahun.
 
-Iyaudah, kalau mau daftar silakan ke :
-Daftar disini <a rel="noreferrer noopener" href="https://cloud.google.com/free" target="_blank">https://cloud.google.com/free</a>
-Isi form yang dibutukan
+Cuma, yaudah lah ya. 3 bulan juga sudah lebih dari cukup untuk benchmark performa dan stabilitas VPS yang kita gunakan.
 
-# Bisa Pakai VCC Jenius
-Untuk pembayaran, bisa pakai kartu kredit atau Virtual Credit Card (VCC). Kemarin coba daftar pakai VCC Jenius masih bisa.
-Ohya, jangan lupa diisi saldo dulu VCC-nya mininal $1 untuk proses validasi. Tenang aja saldonya ngak kepotong kok.
+Kalau mau daftar silakan ke :  
+Daftar disini [Google Cloud Platform](https://cloud.google.com/free) registration.  
+Login pakai akun gmail, isi form, submit.
+
+### Verifikasi Pembayaran
+Salah satu syarat agar bisa terdaftar dalah verifikasi pembayaran.  
+Pada saat mendaftar, saya menggunakan Virtual Credit Card (VCC) dari Jenius BTPN. Dan masih bisa di verifikasi dengan lancar.
+Jangan lupa diisi saldo dulu VCC-nya mininal $1 untuk proses validasi. Tenang aja saldonya ngak kepotong kok.
+
 Setelah proses pendaftaran diterima, akan dapat notif di gmail. Dashboard GCP sudah bisa diakses.
-Pertama, dashboardnya bikin binggung karena banyak banget menunya. 
 Next kita akan create compute engine/VPS pada dashboard GCP.
 
-Udah segitu aja dulu.
 
 Salam,
