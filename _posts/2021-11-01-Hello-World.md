@@ -1,10 +1,16 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title: "Welcome to Jekyll!"
 ---
 
-# Welcome
+### Hello world
 
-**Hello world**, ini adalah post pertama saya menggunakan platform Jekyll.
+Ini adalah postingan pertama saya menggunakan platform [Jekyll](https://jekyllrb.com/), sebuah static site generator yang awesome.  
+Dengan pendekatan yang simple, minimalis, dan cepat. Sebuah kombinasi yang menarik bukan untuk menjadi platform sebuah blog yang sederhana seperti ini.
 
-Sangat minimalis bukan!
+Karena sebelumnya terbiasa dengan Wordpress jadi ya perlu banyak adaptasi, mulai dari hosting file, pengaturan tema, bagaimana membuat post dan pages, serta bagaimana menulis dengan format markdown.
+
+Lihat saja beberapa tuisan di blog ini, masih terlihat berantakan bukan?  
+Tenang saja, nanti kita rapikan sambil jalan.
+
+Menurut saya, Jekyll adalah platform yang simple sekaligus powerfull.
