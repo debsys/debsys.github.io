@@ -2,10 +2,10 @@
 main:
   - title: "Posts"
     url: /year-archive/
-  - title: "Kebijakan Privasi"
-    url: /kebijakan-privasi/
   - title: "About"
     url: /about/
+  # - title: "Kebijakan Privasi"
+  #   url: /kebijakan-privasi/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
