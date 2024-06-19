@@ -14,7 +14,7 @@ Apabila anda memiliki "point of interest" yang sama, mungkin akan sedikit nyambu
 Oh ya, perkenalkan saya mimin. Tuan rumah blog ini. Orang yang sedang belajar konsisten untuk nulis.
 
 Mungkin ada kritik dan saran?
-Layangkan lewat email atau kontak [telegram](https://t.me/laredusun).
+Layangkan lewat email, atau diskusi di kolom komentar di bawah.
 
 Terima kasih,  
 Salam.
